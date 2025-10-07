@@ -42,10 +42,3 @@
 ---
 [![](https://visitcount.itsvg.in/api?id=ilnaral&icon=7&color=0)](https://visitcount.itsvg.in)
 
-###
-
-<p align="center">
- <img width="600" src="assets/github-snake.svg" alt="snake"/>
-</p>
-
-###
